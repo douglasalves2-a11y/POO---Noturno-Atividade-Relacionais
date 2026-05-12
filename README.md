@@ -4,7 +4,7 @@
 Atividade Prática — POO | Relacionamentos entre Classes
 
 ## Integrantes
-- [Douglas Henrique Alves]
+- Douglas Henrique Alves
 
 ## Descrição
 Sistema desenvolvido em Java para gerenciar **Veículos**, **Motoristas** e **Viagens**, aplicando encapsulamento rigoroso e relacionamentos entre classes.
